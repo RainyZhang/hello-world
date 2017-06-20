@@ -1,2 +1,3 @@
 # hello-world
-just for started
+hi everybody
+here is Rainy
